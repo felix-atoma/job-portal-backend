@@ -15,10 +15,9 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-// Default route for Vercel
-test
+// Default route to check deployment
 app.get("/", (req, res) => {
-  res.send("Job Portal Backend API is running...");
+  res.send("Job Portal Backend API is running successfully! 🚀");
 });
 
 // Routes
