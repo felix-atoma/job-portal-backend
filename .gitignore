@@ -1,1 +1,5 @@
 .env
+JWT_SECRET=885e9b6cec1d8ac13401eaadb7b66785dd3d7d99c99bba0779fd7e2b645c2ce5
+MONGO_URI=mongodb+srv://admin:Adjola12%2E%2C@cluster0.8vm0z.mongodb.net/contact-form?retryWrites=true&w=majority
+
+PORT=5000
