@@ -1,0 +1,193 @@
+[
+    {
+      "id": 1,
+      "title": "Software Engineer",
+      "location": "📍 Accra, Ghana",
+      "type": "Full-time",
+      "deadline": "31 Dec 2025",
+      "description": "We are looking for a skilled Software Engineer to develop and maintain web applications. The ideal candidate should have strong problem-solving skills and a passion for technology.",
+      "responsibilities": [
+        "Develop and maintain web applications using modern frameworks.",
+        "Collaborate with designers and product managers to create user-friendly applications.",
+        "Write clean, scalable, and well-documented code."
+      ],
+      "qualifications": [
+        "Bachelor’s degree in Computer Science or a related field.",
+        "Experience with React, Node.js, and database management.",
+        "Knowledge of cloud platforms such as AWS or Azure."
+      ],
+      "benefits": ["Competitive salary", "Health insurance", "Remote work options"]
+    },
+    {
+      "id": 2,
+      "title": "Agricultural Extension Officer",
+      "location": "📍 Kumasi, Ghana",
+      "type": "Contract",
+      "deadline": "15 Nov 2025",
+      "description": "Seeking an Agricultural Extension Officer to support farmers in rural communities with modern agricultural practices and sustainable farming techniques.",
+      "responsibilities": [
+        "Train farmers on best agricultural practices.",
+        "Conduct field visits to assess crop health.",
+        "Promote the use of modern farming equipment and techniques."
+      ],
+      "qualifications": [
+        "Degree in Agriculture or related field.",
+        "Experience working with local farmers.",
+        "Strong communication and training skills."
+      ],
+      "benefits": ["Transport allowance", "Flexible working hours", "Opportunity to impact rural development"]
+    },
+    {
+      "id": 3,
+      "title": "Marketing Executive",
+      "location": "📍 Takoradi, Ghana",
+      "type": "Part-time",
+      "deadline": "10 Oct 2025",
+      "description": "We are looking for a creative and results-driven Marketing Executive to promote our brand and increase market reach.",
+      "responsibilities": [
+        "Develop marketing strategies for online and offline campaigns.",
+        "Engage with customers and conduct market research.",
+        "Monitor campaign performance and suggest improvements."
+      ],
+      "qualifications": [
+        "Degree in Marketing, Business Administration, or a related field.",
+        "Strong analytical and communication skills.",
+        "Experience with social media marketing and advertising."
+      ],
+      "benefits": ["Commission-based bonuses", "Flexible working hours", "Career development opportunities"]
+    },
+    {
+      "id": 4,
+      "title": "Bank Teller",
+      "location": "📍 Tamale, Ghana",
+      "type": "Full-time",
+      "deadline": "20 Aug 2025",
+      "description": "A reputable financial institution seeks a Bank Teller to handle daily banking transactions and customer service.",
+      "responsibilities": [
+        "Process cash deposits, withdrawals, and transfers.",
+        "Assist customers with banking products and services.",
+        "Ensure compliance with financial regulations."
+      ],
+      "qualifications": [
+        "Diploma or degree in Banking, Finance, or Accounting.",
+        "Strong numerical skills and attention to detail.",
+        "Excellent customer service and communication skills."
+      ],
+      "benefits": ["Health insurance", "Performance bonuses", "Paid leave"]
+    },
+    {
+      "id": 5,
+      "title": "Construction Site Supervisor",
+      "location": "📍 Sunyani, Ghana",
+      "type": "Contract",
+      "deadline": "5 Dec 2025",
+      "description": "Looking for an experienced Construction Site Supervisor to oversee building projects and ensure compliance with safety standards.",
+      "responsibilities": [
+        "Monitor construction activities and ensure compliance with plans.",
+        "Supervise workers and coordinate with project managers.",
+        "Ensure safety standards are maintained on-site."
+      ],
+      "qualifications": [
+        "Diploma or degree in Civil Engineering or related field.",
+        "Experience in construction site management.",
+        "Ability to read and interpret blueprints."
+      ],
+      "benefits": ["Housing allowance", "On-site meals", "Health and safety training"]
+    },
+    {
+      "id": 6,
+      "title": "Customer Service Representative",
+      "location": "📍 Cape Coast, Ghana",
+      "type": "Full-time",
+      "deadline": "28 Sep 2025",
+      "description": "We need a friendly and professional Customer Service Representative to assist clients and resolve customer complaints effectively.",
+      "responsibilities": [
+        "Respond to customer inquiries via phone and email.",
+        "Resolve complaints and provide information about products.",
+        "Maintain records of customer interactions and transactions."
+      ],
+      "qualifications": [
+        "Diploma or degree in Business Administration or a related field.",
+        "Excellent communication and problem-solving skills.",
+        "Experience in customer service or call center operations."
+      ],
+      "benefits": ["Monthly performance bonuses", "Health insurance", "Paid training"]
+    },
+    {
+      "id": 7,
+      "title": "Data Analyst",
+      "location": "📍 Accra, Ghana",
+      "type": "Full-time",
+      "deadline": "15 Dec 2025",
+      "description": "We are hiring a Data Analyst to analyze complex datasets and provide actionable insights for business growth.",
+      "responsibilities": [
+        "Collect, clean, and analyze data to identify trends.",
+        "Generate reports and visualizations for stakeholders.",
+        "Collaborate with teams to implement data-driven decisions."
+      ],
+      "qualifications": [
+        "Degree in Statistics, Data Science, or a related field.",
+        "Proficiency in SQL, Python, or R.",
+        "Experience with data visualization tools like Power BI or Tableau."
+      ],
+      "benefits": ["Competitive salary", "Remote work options", "Professional development"]
+    },
+    {
+      "id": 8,
+      "title": "Human Resource Manager",
+      "location": "📍 Accra, Ghana",
+      "type": "Full-time",
+      "deadline": "1 Nov 2025",
+      "description": "We are looking for an HR Manager to oversee recruitment, training, and employee relations within the organization.",
+      "responsibilities": [
+        "Manage the recruitment and onboarding process.",
+        "Develop and implement HR policies.",
+        "Handle employee relations and conflict resolution."
+      ],
+      "qualifications": [
+        "Degree in Human Resource Management or related field.",
+        "Experience in HR roles, preferably in a corporate setting.",
+        "Strong leadership and communication skills."
+      ],
+      "benefits": ["Health insurance", "Paid leave", "Professional development"]
+    },
+    {
+      "id": 9,
+      "title": "Graphic Designer",
+      "location": "📍 Tema, Ghana",
+      "type": "Freelance",
+      "deadline": "20 Oct 2025",
+      "description": "A talented Graphic Designer is needed to create visually appealing designs for digital and print media.",
+      "responsibilities": [
+        "Design logos, brochures, and social media graphics.",
+        "Collaborate with the marketing team to create branding materials.",
+        "Ensure designs align with company branding and aesthetics."
+      ],
+      "qualifications": [
+        "Degree or diploma in Graphic Design or related field.",
+        "Proficiency in Adobe Creative Suite (Photoshop, Illustrator, InDesign).",
+        "Strong creativity and attention to detail."
+      ],
+      "benefits": ["Flexible work schedule", "Competitive pay", "Networking opportunities"]
+    },
+    {
+      "id": 10,
+      "title": "Sales Representative",
+      "location": "📍 Ho, Ghana",
+      "type": "Full-time",
+      "deadline": "30 Sep 2025",
+      "description": "We are looking for a dynamic Sales Representative to drive sales and build strong customer relationships.",
+      "responsibilities": [
+        "Identify potential customers and generate leads.",
+        "Present products and negotiate deals.",
+        "Meet and exceed sales targets."
+      ],
+      "qualifications": [
+        "Diploma or degree in Business, Marketing, or related field.",
+        "Proven experience in sales and customer relations.",
+        "Excellent negotiation and communication skills."
+      ],
+      "benefits": ["Commission-based bonuses", "Career growth opportunities", "Training programs"]
+    }
+  ]
+  
